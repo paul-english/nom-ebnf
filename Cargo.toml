@@ -4,4 +4,4 @@ version = "0.1.0"
 authors = ["Paul English <paul@onfrst.com>"]
 
 [dependencies]
-nom = "~1.2.2"
+nom = "2.0.0"
